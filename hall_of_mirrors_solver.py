@@ -230,6 +230,21 @@ def main():
     #   "vector": direction
     #   "target": expected product
     challenges = [
+        { "origin": (10.5, 8.5),  "vector": (-1, 0),  "target": 4 },
+        { "origin": (10.5, 7.5),  "vector": (-1, 0),  "target": 27 },
+        { "origin": (10.5, 3.5),  "vector": (-1, 0),  "target": 16 },
+        { "origin": (7.5, -0.5),  "vector": (0, 1),   "target": 405 },
+        { "origin": (5.5, -0.5),  "vector": (0, 1),   "target": 5 },
+        { "origin": (4.5, -0.5),  "vector": (0, 1),   "target": 64 },
+        { "origin": (3.5, -0.5),  "vector": (0, 1),   "target": 12 },
+        { "origin": (0.5, -0.5),  "vector": (0, 1),   "target": 2025 },
+        { "origin": (-0.5, 1.5),  "vector": (1, 0),   "target": 225 },
+        { "origin": (-0.5, 2.5),  "vector": (1, 0),   "target": 12 },
+        { "origin": (-0.5, 6.5),  "vector": (1, 0),   "target": 27 },
+        { "origin": (2.5, 10.5),  "vector": (0, -1),  "target": 112 },
+        { "origin": (4.5, 10.5),  "vector": (0, -1),  "target": 48 },
+        { "origin": (5.5, 10.5),  "vector": (0, -1),  "target": 3087 },
+        { "origin": (6.5, 10.5),  "vector": (0, -1),  "target": 9 },
     ]
 
     # Sort by target for incremental constraint application.
