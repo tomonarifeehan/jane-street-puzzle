@@ -1,3 +1,6 @@
+Sum One, Somewhere - April 2025<br>
+https://www.janestreet.com/puzzles/sum-one-somewhere-index
+
 Hall of Mirrors 3 - March 2025<br>
 https://www.janestreet.com/puzzles/hall-of-mirrors-3-index
 
