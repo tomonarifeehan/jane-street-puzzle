@@ -1,3 +1,6 @@
+Number Cross 5 - May 2025<br>
+https://www.janestreet.com/puzzles/number-cross-5-index
+
 Sum One, Somewhere - April 2025<br>
 https://www.janestreet.com/puzzles/sum-one-somewhere-index
 
