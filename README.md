@@ -9,3 +9,8 @@ https://www.janestreet.com/puzzles/hall-of-mirrors-3-index
 
 Knight Moves 6 - October 2024<br>
 https://www.janestreet.com/puzzles/knight-moves-6-index
+
+useless pentomino tool
+<p align = "center">
+  <img alt = "garbage pentomino tool" src = "./garbage-tool.gif" width = "50%">
+</p>
