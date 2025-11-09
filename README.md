@@ -1,3 +1,6 @@
+Shut the Box - November 2025<br>
+https://www.janestreet.com/puzzles/current-puzzle
+
 Hooks 11 - September 2025<br>
 https://www.janestreet.com/puzzles/hooks-11-solution
 
