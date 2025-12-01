@@ -1,5 +1,8 @@
-Shut the Box - November 2025<br>
+Robot Javalin - December 2025<br>
 https://www.janestreet.com/puzzles/current-puzzle
+
+Shut the Box - November 2025<br>
+https://www.janestreet.com/puzzles/shut-the-box-solution
 
 Hooks 11 - September 2025<br>
 https://www.janestreet.com/puzzles/hooks-11-solution
@@ -30,4 +33,9 @@ useless pentomino tool
 grid cutout
 <p align = "center">
   <img alt = "grid" src = "./shut_the_box_solve.png" width = "50%">
+</p>
+
+analytic solution
+<p align = "center">
+  <img alt = "grid" src = "./robot_javalin_solve.png" width = "50%">
 </p>
